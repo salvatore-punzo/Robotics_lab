@@ -1,0 +1,4 @@
+int32 in1
+int32 in2
+---
+int32[4] out

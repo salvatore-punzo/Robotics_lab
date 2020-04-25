@@ -1,0 +1,8 @@
+prefix=/home/salvatore/ros_ws/install
+
+Name: ros_eser1
+Description: Description of ros_eser1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

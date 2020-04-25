@@ -1,0 +1,2 @@
+ros_eser1:ros_service
+-DCATKIN_DEVEL_PREFIX=/home/salvatore/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/salvatore/ros_ws/install -G Unix Makefiles
